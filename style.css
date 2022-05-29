@@ -3,3 +3,20 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color:blanchedalmond ;
+}
+#featured-property{
+  padding: auto;
+  width: 800px;
+  font-size: 10px;
+  text-align: center;
+}
+#details{
+  float: left;
+}
