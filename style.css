@@ -13,13 +13,20 @@ nav{
 }
 #featured-property{
   padding: auto;
+  margin: auto;
   width: 800px;
   font-size: 10px;
   text-align: center;
 }
-#details{
+#details div{
   float: left;
-  background-color: aqua;
+  background-color:red;
   text-align: center;
-  width: 20%;
+  width: 25%;
+}
+#featured-property img{
+  margin: auto;
+  align-self: center;
+
+
 }
